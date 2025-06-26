@@ -1,0 +1,1 @@
+export {GroupChatsPage} from "./group-chats"

@@ -1,0 +1,1 @@
+export {SettingsAlbum} from "./settings-album"

@@ -1,0 +1,1 @@
+export { SignatureComponent } from "./signature-component";

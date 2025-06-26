@@ -1,0 +1,1 @@
+export {OtherProfilePage} from "./other-profile"
